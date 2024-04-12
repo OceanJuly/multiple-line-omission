@@ -3,6 +3,7 @@
 Vue 3 + TypeScript + Vite + less
 
 使用css的float属性实现：
+![Alt](https://github.com/OceanJuly/multiple-line-omission/blob/master/src/assets/%E6%95%88%E6%9E%9C%E5%9B%BE.png)
 
 ### 优点
 
